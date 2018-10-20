@@ -42,6 +42,8 @@ public class Sat {
         s.Ispisi();
         s.Postavi(0,0,0);
         s.Ispisi();
+        s.Postavi(1,2,3);
+        s.Ispisi();
 
     }
 }
